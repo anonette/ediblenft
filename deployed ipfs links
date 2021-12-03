@@ -1,0 +1,33 @@
+Metadata of "edednft" was published successfully.
+@openzeppelin/contracts/token/ERC721/ERC721.sol : 
+ipfs://QmbCHTCLP6bz8omQXrP8VuxFGdK9Hh3jqfrSTr38WNpTk4
+
+@openzeppelin/contracts/token/ERC721/IERC721.sol : 
+ipfs://QmWfkpRHksy8jFywqYxdmMqdkQ1hxrGTPoNBXbZ48zTvyv
+
+@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol : 
+ipfs://QmT3s3PwCdXqHLJk26kcnedrRGTC9T18z52i9Be7PV9ppc
+
+@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol : 
+ipfs://QmTJWQF8j586oaYNpdZv55xnzyHVQc68XN4eBNeiLbKX8d
+
+@openzeppelin/contracts/utils/Address.sol : 
+ipfs://QmXkoKbxyMcMzjYdkXi5t4t3ZjBQ81pj7AaanS9jhePxyt
+
+@openzeppelin/contracts/utils/Context.sol : 
+ipfs://QmQVv7YeeKmaS11bg7YDTeeGDk6i7sV8LMMfohaLM4SiRu
+
+@openzeppelin/contracts/utils/Strings.sol : 
+ipfs://QmbL6k2zFGndQPNPG7vCDivtjKam3quJSrEbRuVsNo4hBw
+
+@openzeppelin/contracts/utils/introspection/ERC165.sol : 
+ipfs://Qmb8zbC3TjWFtcuyP3KEEaegMkPcfeKAcPrwzvkAoMR3cZ
+
+@openzeppelin/contracts/utils/introspection/IERC165.sol : 
+ipfs://QmZeBojmgXq821dL1TJKFb58B1FogM9jL3u7hXQ8hTEBKT
+
+contracts/EdEdNFT.sol : 
+ipfs://QmPsSDNURe1aHYUjceZy4k34DoWDLz8wexrQCMDfGPi7uq
+
+metadata.json : 
+ipfs://QmcHH3uPibf791orzkTWzPLUmQ7c7k3oeywSpXxS65h56R
